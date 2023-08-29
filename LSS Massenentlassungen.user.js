@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Massenentlassungen
 // @namespace    www.leitstellenspiel.de
-// @version      1.0
+// @version      0.5alpha
 // @description  Fügt ein Interface zur Personalverwaltung hinzu und bestätigt automatisch die Sicherheitsabfrage.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/buildings/*/personals
